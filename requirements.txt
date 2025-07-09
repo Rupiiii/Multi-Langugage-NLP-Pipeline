@@ -1,0 +1,9 @@
+Core dependencies
+
+1)transformers==4.41.1
+2)torch
+3)sentencepiece
+4)fasttext
+5)google-generativeai
+
+

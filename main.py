@@ -5,7 +5,7 @@ from lang_detect import detect_language
 from translator import translate
 
 # 👇 Securely load your Gemini API key
-genai.configure(api_key="AIzaSyBFBOWxcA-ZExNeLb6IwVm35_oWS5-dx5I")
+genai.configure(api_key="YOUR-GEMINI-KEY")
 
 # Map language codes to full names
 LANGUAGE_NAMES = {
